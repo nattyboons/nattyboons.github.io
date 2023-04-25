@@ -1,0 +1,22 @@
+h1 {
+    color: darkcyan;
+    font-family: cursive;
+    text-transform: uppercase;
+    padding:10px;
+}
+
+p { 
+    color: darkcyan;
+    font-family: cursive;
+}
+
+body {
+background-color: blanchedalmond;
+}
+
+img {
+    border: 5px solid red;
+    width:50%;
+    height:50%;
+    }
+    
